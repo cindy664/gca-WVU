@@ -1,4 +1,129 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "West Virginia University",
+    "abbreviation": "WVU",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": "#EEAA00",
+    "primaryBrandColor": "#002855",
+    "buttonColor": "#EEAA00",
+    "buttonTextColor": "#002855",
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/wvu.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/wvu.png",
+    "partner_id": "001Rd000006h2SzIAI",
+    "programName": "WVU Global Career Accelerator",
+    "termsandConditionsPolicy": "https://procurement.wvu.edu/rules/terms",
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 WVU credits",
+    "startDate": "May 18",
+    "endDate": "August 7"
+  },
+  {
+    "item": "about",
+    "schoolname": "West Virginia University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "201 Woodburn Hall, Morgantown, WV 26501",
+    "abbreviation": "WVU",
+    "phone": "(304) 244-4794",
+    "credits": "3 WVU credits",
+    "programFee": "+ 2,000",
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 WVU credits",
+    "abbreviation": "WVU",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "West Virginia University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 WVU credits",
+    "abbreviation": "WVU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ARSC 491",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 18",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "West Virginia University",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "3 WVU credits",
+    "abbreviation": "WVU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ARSC 491",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 18",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "West Virginia University",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 WVU credits",
+    "abbreviation": "WVU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ARSC 491",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 18",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "West Virginia University",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 WVU credits",
+    "abbreviation": "WVU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ARSC 491",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 18",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "West Virginia University",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 WVU credits",
+    "abbreviation": "WVU",
+    "registrationMessage": "Registration is now open.",
+    "courseCode1": "ARSC 491",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "August 7",
+    "term2StartDate": "August 18",
+    "term2EndDate": "December 11"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "WVU Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(304) 244-4794",
+    "abbreviation": "WVU"
+  },
+  {
+    "item": "begin",
+    "credits": "3 WVU credits",
+    "abbreviation": "WVU",
+    "phone": "(304) 244-4794"
+  }
+]
